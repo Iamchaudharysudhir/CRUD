@@ -1,0 +1,33 @@
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\appsettings.json
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\Crud Operations.exe
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\Crud Operations.deps.json
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\Crud Operations.runtimeconfig.json
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\Crud Operations.dll
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\Crud Operations.pdb
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\Crud Operations.csproj.AssemblyReference.cache
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\Crud Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\Crud Operations.AssemblyInfoInputs.cache
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\Crud Operations.AssemblyInfo.cs
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\Crud Operations.csproj.CoreCompileInputs.cache
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\Crud Operations.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\Crud Operations.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\scopedcss\bundle\Crud Operations.styles.css
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\Crud Operations.csproj.CopyComplete
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\Crud Operations.dll
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\refint\Crud Operations.dll
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\Crud Operations.pdb
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\Crud Operations.genruntimeconfig.cache
+C:\Users\chaud\source\repos\Crud Operations\Crud Operations\obj\Debug\net6.0\ref\Crud Operations.dll
